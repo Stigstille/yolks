@@ -184,7 +184,7 @@ is tagged correctly.
   * `ghcr.io/parkervcp/yolks:java_19`
 * [`java21`](/java/21)
   * `ghcr.io/parkervcp/yolks:java_21`
-* [`java22`](/Java/22)
+* [`java22`](/java/22)
   * `ghcr.io/parkervcp/yolks:java_22`
 
 ### [MariaDB](/mariadb)
